@@ -1,0 +1,26 @@
+{
+  "name": "d2-report-api",
+  "version": "0.1.0",
+  "description": "GraphQL API for d2.report",
+  "main": "graphql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+ssh://git@github.com/kirkhoff/d2-report-api.git",
+  "keywords": [
+    "d2.report",
+    "graphql",
+    "api",
+    "destiny"
+  ],
+  "author": "Curt Kirkhoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirkhoff/d2-report-api/issues"
+  },
+  "homepage": "https://github.com/kirkhoff/d2-report-api#readme",
+  "dependencies": {
+    "apollo-server-lambda": "^2.0.0-xrc.11",
+    "graphql": "^0.13.2"
+  }
+}

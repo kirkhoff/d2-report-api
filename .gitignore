@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# misc
+/coverage
+npm-debug.log
+yarn-error.log
